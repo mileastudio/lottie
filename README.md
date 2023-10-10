@@ -3,10 +3,10 @@ A simple web-based Lottie animation testing app. A player with interactive contr
 
 ## Features
 
-- Play and Pause:** Easily play or pause Lottie animations to observe their behavior.
-- Speed Adjustment:** Control the playback speed to test animations at different speeds.
-- Interactive Controls:** Use intuitive controls for quick testing and preview.
-- Size Adjustment:** Resize the animation display area for detailed inspection.
+- Play and Pause:   Easily play or pause Lottie animations to observe their behavior.
+- Speed Adjustment:   Control the playback speed to test animations at different speeds.
+- Interactive Controls:   Use intuitive controls for quick testing and preview.
+- Size Adjustment:   Resize the animation display area for detailed inspection.
 
 ## How to Use
 
